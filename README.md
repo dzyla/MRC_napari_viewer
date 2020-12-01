@@ -1,5 +1,5 @@
 # MRC_napari_viewer
-Cryo-EM data viewer in napari
+Cryo-EM data viewer in napari (or just a preview)
 
 ## Installation guide
 Please check https://napari.org/ for details
