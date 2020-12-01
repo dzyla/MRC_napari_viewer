@@ -17,7 +17,8 @@ pip install easygui mrcfile
 
 # Possible usage:
 * Fast preview MRCS stacks
-* pick in 3D volumes (might be helpful for cryo-ET)
+* Pick in 3D volumes (might be helpful for cryo-ET)
 * Preview of MRC volume files and 2D classes
+* More ideas soon!
 
 ![alt text](https://github.com/dzyla/MRC_napari_viewer/blob/main/out.gif)
